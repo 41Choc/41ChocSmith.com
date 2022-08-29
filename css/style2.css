@@ -1,0 +1,56 @@
+body {
+	background-image: url('../img/Choc frame 8.jpg');
+	background-size: cover;
+	background-repeat: none;
+	font-family: callibri;
+	font-size: 18px;
+	color: brown;
+	text-align: 1.5;
+	height: 100%;
+}
+h1{
+	color: brown;
+}
+h2 {
+	color: brown;
+	text-decoration: bold;
+}
+h3{
+	color: brown;
+	text-decoration: bold;
+}
+
+section#left{
+	background-color: none;
+	font-size: 18px;
+	text-decoration: none;
+	float: left;
+	width:50%;
+}
+section#top{
+	background-color: none;
+	float: top;
+	width: 70%;
+}
+section#right{
+	background-color:none;
+	float:right;
+	width:45%;
+}
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+hr {
+	font-size: 16px;
+}
+p {
+	font-size: 18px;
+	color: white;
+}
+label {
+float: left;
+width: 6em;
+text-align:right;
+margin-right:10px; 
+}
